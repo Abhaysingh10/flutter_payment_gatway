@@ -1,0 +1,12 @@
+
+
+Documentations and Referemces for Razor Pay flutter
+
+RazorPay Package ----> https://razorpay.com/docs/payment-gateway/flutter-integration/standard/
+Tutorial followed ---> https://www.youtube.com/watch?v=7xcYSTH6Kx8&t=539s
+
+
+
+Error :-
+ Manifest merger failed : uses-sdk:minSdkVersion 16 cannot be smaller than version 19 declared in library 
+		Solution ----> Change minSdkVersion from 16 to atleast 19
