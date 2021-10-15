@@ -74,6 +74,7 @@ drawable common_google_signin_btn_text_light
 drawable common_google_signin_btn_text_light_focused
 drawable common_google_signin_btn_text_light_normal
 drawable common_google_signin_btn_text_light_normal_background
+drawable corner
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable launch_background
@@ -98,6 +99,7 @@ drawable rzp_name_logo
 drawable rzp_poweredby
 drawable rzp_secured_by_bg
 drawable rzp_white_border_black_bg
+drawable toast_bg
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
 id accessibility_custom_action_1
@@ -191,6 +193,7 @@ layout notification_template_part_chronometer
 layout notification_template_part_time
 layout rzp_loader
 layout rzp_magic_base
+layout toast_custom
 mipmap ic_launcher
 raw rzp_config
 string common_google_play_services_enable_button

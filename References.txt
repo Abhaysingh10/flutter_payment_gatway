@@ -4,8 +4,10 @@ Documentations and Referemces for Razor Pay flutter
 
 RazorPay Package ----> https://razorpay.com/docs/payment-gateway/flutter-integration/standard/
 Tutorial followed ---> https://www.youtube.com/watch?v=7xcYSTH6Kx8&t=539s
+Toast Package -------> https://pub.dev/packages/toast
 
-
+null-safety packages migration with this command
+---------------------> dart pub outdated --mode=null-safety
 
 Error :-
  Manifest merger failed : uses-sdk:minSdkVersion 16 cannot be smaller than version 19 declared in library 
